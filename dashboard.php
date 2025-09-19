@@ -863,7 +863,7 @@ try {
       <div class="header">
         <h1 class="greeting">Welcome back, <?= htmlspecialchars(explode(' ', $user_name)[0]) ?>.</h1>
         <div class="header-actions">
-          <a href="settings.php" class="btn"><i class="fas fa-cog"></i> Settings</a>
+          <a href="profile.php" class="btn"><i class="fas fa-cog"></i> Settings</a>
         </div>
       </div>
 
